@@ -1,0 +1,29 @@
+h1{
+    font-family: sans-serif; 
+    width: 65px;;
+    color: orange;
+    font-style: italic;
+    text-align:center
+}
+ul{
+    font-style: oblique;
+}
+#corFavorita{
+    background-color: rgba(124, 131, 223, 0.822);
+}
+p{
+    font-weight: 600;
+}
+body{
+    font-size:30px ;
+}
+
+#amarelo{
+    background-color: yellow;
+}
+#vermelho{
+    background-color:red
+}
+#marrom{
+    background-color:brown
+}
