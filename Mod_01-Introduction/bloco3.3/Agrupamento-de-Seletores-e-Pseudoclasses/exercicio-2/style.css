@@ -1,0 +1,10 @@
+div:hover{
+    border: 1px solid black;
+    width: 200px;
+    text-align: center;
+        }
+h3:active{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+        }
+    
